@@ -15,3 +15,5 @@ The Application has not been deployed anywhere and can be run only locally.
 
 <img width="702" alt="image" src="https://github.com/user-attachments/assets/38bbf6e6-cfad-4716-ab3b-ac3cbd0d49da">
 
+
+

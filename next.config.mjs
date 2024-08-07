@@ -15,8 +15,7 @@ const nextConfig = {
           "./Footer": "./components/Footer.js",
         },
         shared: {
-          // specify shared dependencies
-          // read more in Shared Dependencies section
+
         },
       })
     );

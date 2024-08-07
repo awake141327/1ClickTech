@@ -6,13 +6,13 @@ const inter = Inter({ subsets: ["latin"] });
 
 const Navbar = dynamic(() => import("remote/Navbar"));
 const Footer = dynamic(() => import("remote/Footer"));
-const Main = dynamic(() => import("remote2/Main"));
+const About = dynamic(() => import("remote2/About"));
 
-export default function Home() {
+export default function AboutPage() {
   return (
     <main>
       <Navbar />
-      <Main />
+      <About />
       <Footer />
     </main>
   );

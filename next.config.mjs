@@ -19,7 +19,7 @@ const nextConfig = {
         filename: "static/chunks/remoteEntry.js",
         remotes: remotes(isServer),
         exposes: {
-          // Host app also can expose modules
+          
         },
       })
     );

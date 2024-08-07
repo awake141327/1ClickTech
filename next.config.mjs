@@ -15,8 +15,7 @@ const nextConfig = {
           "./About": "./components/About.js",
         },
         shared: {
-          // specify shared dependencies
-          // read more in Shared Dependencies section
+
         },
       })
     );
